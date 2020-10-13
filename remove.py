@@ -1,7 +1,7 @@
 #Creted by Pooja
 #On 12 March 2020
-#Remove the same numbers from the list
-def remdup(l):
+#Remove duplicates from the list using python
+def removedup(l):
     l1=[]
     for i in l:
         if i not in l1:
@@ -9,5 +9,5 @@ def remdup(l):
     return (l1)
         
        
-b=remdup([3,5,7,5,3,7,10])
+b=removedup([3,5,7,5,3,7,10])
 print(b)
