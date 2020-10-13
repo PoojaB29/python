@@ -1,6 +1,6 @@
 #Creted by Pooja
 #On 20 Feb 2020
-#sum the squares of the numbers in the list
+#Implemented program to sum the squares of the numbers in the list
 def sumsquare(l):
     sum=0
     diff=0
