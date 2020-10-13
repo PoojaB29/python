@@ -1,3 +1,6 @@
+#Created by Pooja 
+#On 22 Feb 2019
+#This program is implemented for the addition and multiplication of polynomials using python
 def addpoly(p1,p2):
     x = [0]*(max(p1[0][1],p2[0][1])+1)
     for i in p1+p2:
