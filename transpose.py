@@ -1,6 +1,6 @@
 #Creted by Pooja
 #On 14 June 2020
-#Implemented the transpose of list using python
+#Implemented the transpose of matrix using python
 def transpose(m):
     l=[]
     for i in range(len(m[0])):
