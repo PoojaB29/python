@@ -1,6 +1,6 @@
 #Creted by Pooja
 #On 13 Oct 2020
-#dictionary manipulation
+#dictionary manipulation using python
 
 n=int(input("enter number of items "))
 dict1={}
