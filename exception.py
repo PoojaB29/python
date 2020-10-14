@@ -1,6 +1,6 @@
 #Creted by Pooja
 #On 13 Oct 2020
-#Exception handling in python
+#Implementation of exception handling in python
 import sys
 randomList = ['a', 0, 2]
 for entry in randomList:
