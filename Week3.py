@@ -1,7 +1,6 @@
 #Creted by Pooja
 #On 5 March 2020
 #Implementation of sorting algorithms using python.
-#Week 3
 def findpos(l,v):
     (found,i)=(False,0)
     while i<len(l):
