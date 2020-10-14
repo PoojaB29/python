@@ -1,7 +1,6 @@
 #Created by Pooja
 #On 3 june 2020
-#Implemented divide, even, odd, factors, factorial, isprime, primeupto,  nprime function using python
-#WEEK 2
+#Implemented divide, even, odd, factors, factorial, isprime, primeupto,  nprime function using python.
 def divides(m,n):
     if n%m==0:
         return(True)
