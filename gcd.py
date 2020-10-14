@@ -1,7 +1,6 @@
 #Creted by Pooja
 #On 5 March 2020
 #The program contains the different ways to implement gcd function using python.
-#WEEK 1
 def gcd(m,n):
     fm=[]
     for i in range(1,m+1):
