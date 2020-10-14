@@ -1,6 +1,6 @@
 #Creted by Pooja
 #On 13 Oct 2020
-#Implement user defined list
+#Implement user defined linked list using python
 #Week 7 : User Defined list 
 class Node:
     def __init__(self, v = None):
