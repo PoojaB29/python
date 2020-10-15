@@ -13,7 +13,7 @@ class Solution:
         for i in range(start+1, end+1):
             last = dp[i-1]
             lastToLast = 0 if i-2 < start else dp[i-2]
-            dp[i] = max(nums[i] + lastToLast, last);
+            dp[i] = max(nums[i] + lastToLast, last)
             ans = max(dp[i], ans)
         return ans
     
